@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "total-triumph-363323",
+  "private_key_id": "06eaaf85fe15636453304e59bfe01a6e4cd085e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSAfchYhg6lgWD\nGjXEMYrqb7CiM9ECrvYzT/5N11Dw3zqNbpk7AvEwNk78VBHsK0yRbHRiHLq6HRN8\nPL62afbrvnP5i+GPlLPValanpvShX38PRCiXG66sZGeG8wSrqDYkZjRuNVzQh6Aw\nUjdqk1lpkXMObA1XvwwTmL4OC13et81CEXMEmvXgFe1A4Frj2kMwr49fOVfLc+rT\n8u2e4bhUowEOxrRqsqXc5kFnAQDKYtuRZjl//+99FRxddDGoX+Pn9V4MRla4JG4Z\nrX113baC3It5Ecsnm3t8pc6ihWbHHErpJm5g9Tc2sEIHMALWU9x8ocIvjEWRtShO\nUTR/I5i5AgMBAAECggEABtpGkKHNTZgYnPMNfxXoxQaY+mn7b317DiiVkT+t5fY6\nyGOr/1d0vFCBWk15+j1ddb9Wut7aHvmU6bBnvrcNdhrUWPe+B/vftF6Qbk8N23gs\nwrhEJM4j8H8kO6yRYfKOtbhaDKCUIz/Rs9Hy+fjN6Zpz6SwQcWUMBVWuGfI4AWzp\n0AP9sRpOOPppqXxr+Pnf3ecIBCpvxHRlY5GEvz0rIUwvDQCSp1Qw8mWjgsKWNNr3\n/zmHcydKySzmWSeLzZzEqOCZQAQlsRTf1SHSTig+nBwSWWyAYGpG5YhWrsl8P/OL\n/XDV34Ql6pZWqNic59jSWYSaTi9yQ+8bdgVFZr9MwwKBgQD0b/iKbiqfBfJXxDD2\nj6vAZ712LAOvl/h4YNswiXvZry+P07lWERO9CKIw8ceWy4myDDLsJMwLjxzzHcKw\nDruKzIGzOggTY2HeUg7niztrnZxtUAPcvf6DG85z2O95o7YaUjfDHA54E7z+HGtn\nOCxwJR++0bWcuKqpNvUFo/QXjwKBgQDb8RDc9uzrI5CffrXNJbFQHUssJoamHoNt\nL8RSoWiy1iKn+cuhClTV9toScfr9Pu6bpAXKnGps8Q9DKNdmSYwiUowh+pkJyHOu\n2ABWHRX12+QvdYHVpH384+VGa/PGTMiJ5RBjwpgqP7XDvs1BuGc0hCpYvsYGmFpb\nCw/gkEhnNwKBgE0oVwzjT4LY7rFzlX0Oxsk6NdzqcdNoph7he+7rRvPkz5+X1oXr\naA6gfgnzF+xqnTFdlmliCCKR7zJyr3TBgcODYGGBrPDpywfRYTEHix8iJjF/M2jn\ndEJQca+xx43e9mmCkGV/IrYWjO6ta92uJqDTpxylt60bwYsedONt6GvTAoGAPAWc\noYCthToOdMhimtqnegKUijb1Vg5LtZdsj1RHO07e5FJyNL+aCU41kwUSBtyOx2DK\nx9FJ5fMfRCe4KMz3dkJqxbca3qWalGOUK+wCGzdoHV+HECO00jfrUP2S6FH6BE/D\n2kW3uwfp9cJzR3UojRdoaxGc/x3CwsfRDGqzp58CgYEA1SUCuyAaUiw2lEfLFdDN\nlxTwlr2sz4O4e7OGRkmpMVqTSqqKESckHK4QHo8tcYKmw3OllNRhgRfz3P5dONbF\n3t8waJMLTg8cmb5gkPlfIfJJmiklJNUK1lxwO56YiGZO7qSBaTnEKKZammpvx6h/\nxIU32an2K7/qtSJ9FJShAwo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "extraer-datos-google-sheets@total-triumph-363323.iam.gserviceaccount.com",
+  "client_id": "100761988330209055352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/extraer-datos-google-sheets%40total-triumph-363323.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
